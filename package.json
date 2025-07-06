@@ -1,0 +1,106 @@
+{
+  "id": "e2452ff1-b40d-4fbc-90ad-1006f554c7b8",
+  "name": "@indra.ai/deva.chief",
+  "version": "0.0.0",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Chief Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.chief.git"
+  },
+  "keywords": [
+    "Chief",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.chief/issues"
+  },
+  "homepage": "https://deva.space/devas/chief",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.39"
+  },
+  "data": {
+    "agent": {
+      "id": "7af69316-a4b7-4e73-a4c2-9fb6247797f",
+      "key": "chief",
+      "prompt": {
+        "emoji": "🪶",
+        "text": "Chief",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "Chief Deva",
+        "hashtag": "#Chief",
+        "title": "Chief Deva",
+        "subtitle": "Chief Deva build on the philosophy the Vedas.",
+        "describe": "A Chief",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,ChiefDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A Chief painter and modern style.",
+        "system": "Deva.world.chief",
+        "layout": "default",
+        "emoji": "/assets/devas/chief/emoji.png",
+        "avatar": "/assets/devas/chief/avatar.png",
+        "image": "/assets/devas/chief/image.png",
+        "background": "/assets/devas/chief/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "caseid": "FM-20250622-5114",
+        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "created": "Sunday, July 6, 2025 - 3:56:21 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Chief is creating a uid",
+        "status": "Chief is viewing the status",
+        "help": "Chief is viewing the help",
+        "artist": "Chief creating",
+        "live": "Chief livechat",
+        "ask": "Chief asking",
+        "reply": "Chief reply",
+        "comment": "Chief comment"
+      }
+    }
+  }
+}
