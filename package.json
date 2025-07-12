@@ -28,14 +28,14 @@
   },
   "homepage": "https://deva.space/devas/chief",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.39"
+    "@indra.ai/deva": "^1.5.40"
   },
   "data": {
     "agent": {
       "id": "7af69316-a4b7-4e73-a4c2-9fb6247797f",
       "key": "chief",
       "prompt": {
-        "emoji": "🪶",
+        "emoji": "🪶 ",
         "text": "Chief",
         "colors": {
           "label": {
